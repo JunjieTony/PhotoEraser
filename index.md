@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Support Web Page for Photo Eraser
 
-You can use the [editor on GitHub](https://github.com/JunjieTony/PhotoEraser/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Photo Eraser, Remove Watermark, you can erase unwanted objects from picture. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Support a variety of modes
+- Shrink Edge: Extract the edge of the touched area,and fill the area with the edges
+- Extract Color: Extract the color within the touched area, choose one of the colors to filled
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JunjieTony/PhotoEraser/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We needs your feedback and support to optimize this app
+contact us: junjie_ruan@163.com
